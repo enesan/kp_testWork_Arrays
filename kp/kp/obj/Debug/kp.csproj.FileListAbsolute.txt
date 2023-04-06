@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\source\repos\kp\kp\bin\Debug\kp.exe.config
+C:\Users\Дмитрий\source\repos\kp\kp\bin\Debug\kp.exe
+C:\Users\Дмитрий\source\repos\kp\kp\bin\Debug\kp.pdb
+C:\Users\Дмитрий\source\repos\kp\kp\obj\Debug\kp.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\kp\kp\obj\Debug\kp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\source\repos\kp\kp\obj\Debug\kp.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\kp\kp\obj\Debug\kp.exe
+C:\Users\Дмитрий\source\repos\kp\kp\obj\Debug\kp.pdb
