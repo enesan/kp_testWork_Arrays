@@ -135,43 +135,41 @@ for (int i = 0; i < jagget.Length; ++i)
     Console.Write("\n");
 }
 
-int temp2;
-for (int i = 0; i < (jagget[0].Length - 1); i++)
+for (int i = 0; i < jagget.Length; i++)
 {
-    for (int j = i + 1; j < jagget[0].Length; j++)
+    int[] innerArray = jagget[i];
+    for (int j = 0; j < innerArray.Length - 1; j++)
     {
-        if (jagget[0][i] > jagget[0][j])
+        int minIndex = j;
+        for (int s = j + 1; s < innerArray.Length; s++)
         {
-            temp2 = jagget[0][i];
-            jagget[0][i] = jagget[0][j];
-            jagget[0][j] = temp2;
+            if (innerArray[s] < innerArray[minIndex])
+            {
+                minIndex = s;
+            }
         }
+        int temp3 = innerArray[j];
+        innerArray[j] = innerArray[minIndex];
+        innerArray[minIndex] = temp3;
     }
 }
 
-for (int i = 0; i < (jagget[1].Length - 1); i++)
+for (int i = 0; i < jagget.Length - 1; i++)
 {
-    for (int j = i + 1; j < jagget[1].Length; j++)
+    int[] minArray = jagget[i];
+    int minIndex = i;
+    for (int j = i + 1; j < jagget.Length; j++)
     {
-        if (jagget[1][i] > jagget[1][j])
+        if (jagget[j][0] < minArray[0])
         {
-            temp2 = jagget[0][i];
-            jagget[1][i] = jagget[1][j];
-            jagget[1][j] = temp2;
+            minArray = jagget[j];
+            minIndex = j;
         }
     }
-}
-
-for (int i = 0; i < (jagget[2].Length - 1); i++)
-{
-    for (int j = i + 1; j < jagget[2].Length; j++)
+    if (minIndex != i)
     {
-        if (jagget[2][i] > jagget[2][j])
-        {
-            temp2 = jagget[2][i];
-            jagget[2][i] = jagget[2][j];
-            jagget[2][j] = temp2;
-        }
+        jagget[minIndex] = jagget[i];
+        jagget[i] = minArray;
     }
 }
 
