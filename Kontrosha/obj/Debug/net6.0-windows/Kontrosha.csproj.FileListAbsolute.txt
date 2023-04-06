@@ -1,0 +1,36 @@
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.exe
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.deps.json
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.runtimeconfig.json
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.dll
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.pdb
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.csproj.AssemblyReference.cache
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.Form1.resources
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.Properties.Resources.resources
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.csproj.GenerateResource.cache
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.AssemblyInfoInputs.cache
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.AssemblyInfo.cs
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.dll
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\refint\Kontrosha.dll
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.pdb
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.genruntimeconfig.cache
+C:\Users\Admin1\Desktop\Новая папка\1074 СЮ\Kontrosha\obj\Debug\net6.0-windows\ref\Kontrosha.dll
+C:\Users\shara\source\repos\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.exe
+C:\Users\shara\source\repos\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.deps.json
+C:\Users\shara\source\repos\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.runtimeconfig.json
+C:\Users\shara\source\repos\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.dll
+C:\Users\shara\source\repos\Kontrosha\bin\Debug\net6.0-windows\Kontrosha.pdb
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.csproj.AssemblyReference.cache
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.Form1.resources
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.Properties.Resources.resources
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.csproj.GenerateResource.cache
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.AssemblyInfoInputs.cache
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.AssemblyInfo.cs
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.csproj.CoreCompileInputs.cache
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.dll
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\refint\Kontrosha.dll
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.pdb
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\Kontrosha.genruntimeconfig.cache
+C:\Users\shara\source\repos\Kontrosha\obj\Debug\net6.0-windows\ref\Kontrosha.dll
